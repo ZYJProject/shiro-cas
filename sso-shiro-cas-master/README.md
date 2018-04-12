@@ -1,4 +1,4 @@
-# sso-shiro-cas
+# sso-shiro-cas 最新
 spring下使用shiro+cas配置单点登录，多个系统之间的访问，每次只需要登录一次
 
 ## 系统模块说明
